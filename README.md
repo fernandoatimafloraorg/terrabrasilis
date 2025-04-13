@@ -35,5 +35,5 @@ venv\Scripts\activate
 
 Executar no prompt de comando:
 
-cd seu_projeto
-python principal.py
+- cd seu_projeto
+- python principal.py
